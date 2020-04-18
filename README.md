@@ -16,7 +16,7 @@ open index.html
 
 No additional setup required.
 
-## Developing 
+## Developing
 
 Below is a summary of the key files for this project and their purpose:
 
@@ -34,13 +34,10 @@ This site showcases Horiseon's capabilities on:
 
 ![index preview](readme_content/index_preview.png)
 
-
 ## Licensing
 
 "The code in this project is licensed under MIT license."
 
+---
 
-
-
-----
- __developed with love by **@ystamaritq**__
+**developed with **love** by **@ystamaritq****
